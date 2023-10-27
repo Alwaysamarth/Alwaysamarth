@@ -1,4 +1,6 @@
-### Hi there 👋
+Namaste!! <br>
+This is my first repository <br>
+author -- Samarth Vishwakarma
 
 <!--
 **Alwaysamarth/Alwaysamarth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
